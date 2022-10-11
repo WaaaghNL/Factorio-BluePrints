@@ -1,6 +1,8 @@
 # Factorio-Bluerpints
 The WaaaghBook is a blueprint book for the game Factorio. This book contains a few smaller books of different categories and from different users. Some are just stolen in full ohter are created by me or adapted to my style of gameplay. If you find it i hope you have a nice headstart. If there is an issue please report it so i can update it. 
 
+How to import the blueprint book: https://wiki.factorio.com/Blueprint#Importing/Exporting_blueprints Use the WaaaghBook text sting to import the book
+
 # Contents
 - Rail
   - 2 Lanes

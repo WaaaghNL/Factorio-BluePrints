@@ -21,15 +21,24 @@ The WaaaghBook is a blueprint book for the game Factorio. This book contains a f
 - Solar
 
 ## Rail
-All Rail books are chunk aligned.
+All Rail books are chunk aligned. With F5 you can show the grids on screen. The nice thing with the chunks is that where you start in the world you always can connect to existing chunk aligned rails without thinking or make strange bents. 
 ### 2 Lanes
 ![image](http://i.imgur.com/mxw89USl.jpeg)
 
-Based on [Chunk-Aligned Railway System with Wires.](https://factorioprints.com/view/-Ko4Un71BhDDTUvorRv5). I Added lights to every pole.
+Based on [Chunk-Aligned Railway System with Wires](https://factorioprints.com/view/-Ko4Un71BhDDTUvorRv5). I Added lights to every pole.
 
-### Stations
+### Stations (Cargo wagon)
+Every Station is build for 1 locomotive with 3 carts. All models are with 3 variations of belts (![yellow tranport belt](https://wiki.factorio.com/images/thumb/Transport_belt.png/32px-Transport_belt.png), ![red fast transfer belt](https://wiki.factorio.com/images/thumb/Fast_transport_belt.png/32px-Fast_transport_belt.png), ![blue express transport belt](https://wiki.factorio.com/images/thumb/Express_transport_belt.png/32px-Express_transport_belt.png)) and with 3 unload configurations (Left, Both, Right). Every stations has the output on the station pole side of the platform.
+Note that the ![yellow tranport belt](https://wiki.factorio.com/images/thumb/Transport_belt.png/32px-Transport_belt.png) station has ![yellow inserters](https://wiki.factorio.com/images/thumb/Inserter.png/32px-Inserter.png), ![red fast transfer belt](https://wiki.factorio.com/images/thumb/Fast_transport_belt.png/32px-Fast_transport_belt.png) has ![blue fast inserters](https://wiki.factorio.com/images/thumb/Fast_inserter.png/32px-Fast_inserter.png), and ![blue express transport belt](https://wiki.factorio.com/images/thumb/Express_transport_belt.png/32px-Express_transport_belt.png) has ![green stack inserters](https://wiki.factorio.com/images/thumb/Stack_inserter.png/32px-Stack_inserter.png).
+
+### Stations (Fluid wagon)
+TODO
+
+### Stations (Artillery wagon)
+TODO
 
 ### LTN Stations
+LTN Stations are the same as normal stations only with the advantage that you can use them in conjunction with the [Logistic Train Network mod](https://mods.factorio.com/mods/Optera/LogisticTrainNetwork).
 
 ## Science
 
@@ -37,6 +46,8 @@ Based on [Chunk-Aligned Railway System with Wires.](https://factorioprints.com/v
 
 ## Belts
 ### Yellow
+![image](https://wiki.factorio.com/images/Transport_belt_entity.png)
+
 #### Balancers
 ![image](http://i.imgur.com/C4Mr1Wwl.jpeg)
 
@@ -47,6 +58,8 @@ Copy of: [The Complete Belt Series: Yellow, Part 1.](https://factorioprints.com/
 Copy of: [The Complete Belt Series: Yellow Belt Split-off/Priority Splitters/Separators, Part 7.](https://factorioprints.com/view/-KkfMB9sDjnYEVv2A7h7)
 
 ### Red
+![image](https://wiki.factorio.com/images/Fast_transport_belt_entity.png)
+
 #### Balancers
 ![image](http://i.imgur.com/J66m4yJl.jpeg)
 
@@ -57,6 +70,8 @@ Copy of: [The Complete Belt Series: Red, Part 2.](https://factorioprints.com/vie
 Copy of: [The Complete Belt Series: Red Belt Split-off/Priority Splitters/Separators, Part 8.](https://factorioprints.com/view/-KkfdBfOpOJ3Ty-mA5bR)
 
 ### Blue
+![image](https://wiki.factorio.com/images/Express_transport_belt_entity.png)
+
 #### Balancers
 ![image](http://i.imgur.com/sznGd2Ol.jpeg)
 
